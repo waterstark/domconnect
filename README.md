@@ -4,13 +4,17 @@
 
 1. Создайте виртуальное окружение:
 ```
-- python3 -m venv venv
+python3 -m venv venv
 ```
 2. Активируйте виртуальное окружение:
-- source venv/bin/activate
-
+```
+source venv/bin/activate
+```
 3. Установите зависимости из файла requirements.txt:
-- pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 4. Запустите программу:
-- python3 main.py
+```
+python3 main.py
+```
